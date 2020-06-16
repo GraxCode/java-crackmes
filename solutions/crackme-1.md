@@ -41,7 +41,7 @@ for(int user_code = 1; user_code != 0; user_code++) {
 }
 ```
 
-The full explaination can be read at http://www.nullsecurity.org/article/crackmes_one_noverify_graxcode_java_crackme_1
+The full explanation can be read at http://www.nullsecurity.org/article/crackmes_one_noverify_graxcode_java_crackme_1
 
 
 </details>
